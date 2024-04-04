@@ -2,7 +2,7 @@
 
 I'm Bishwash Khadka, a Computer Science student at McNeese State University graduating in 2025. More than just a student, I'm a passionate developer and tech enthusiast who thrives on turning ideas into digital solutions.
 
-Fueled by a constant hunger for learning, I enjoy tackling real-world problems through innovative code. I'm eager to connect with others who share this passion – let's embark on a journey of creativity and innovation together!🚀🎨👩‍💻
+Fueled by a constant hunger for learning, I enjoy tackling real-world problems through innovative code. I'm eager to connect with others who share this passion – let's embark on a journey of creativity and innovation together!🚀🎨👩‍💻![code(1)](https://github.com/biswaskdk/biswaskdk/assets/144484530/1c6232fa-6b6c-4d41-ad7f-f52fdd56c064)
 
     🌎 I'm based in Lake Charles, USA.
     🎓 I’m working on my bachelor's in Computer Science and set to graduate in 2025.
