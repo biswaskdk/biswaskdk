@@ -27,6 +27,9 @@ Fueled by a constant hunger for learning, I enjoy tackling real-world problems t
 
 
 🛠️ Skills
-My developer toolkit is packed with versatile languages like HTML, CSS, JavaScript, Python, Java, and SQL. These languages empower me to craft interactive and dynamic digital experiences.  To push the boundaries of what I can build, I'm actively honing my skills in Data Structures & Algorithms (DSA) and diving deeper into Artificial Intelligence (AI) and Machine Learning (ML). I believe these areas hold the key to even more groundbreaking projects and collaborative opportunities.
 
-HTML  CSS  JavaScript  Python  PyCharm PostgreSQL  SQL  Java  MySQL  AWS 
+My developer toolkit is packed with versatile languages like HTML, CSS, JavaScript, Python, Java, and SQL. These languages empower me to craft interactive and dynamic digital experiences.  To push the boundaries of what I can build, I'm actively honing my skills in Data Structures & Algorithms (DSA) and diving deeper into Artificial Intelligence (AI) and Machine Learning (ML). I believe these areas hold the key to even more groundbreaking projects and collaborative opportunities.
+![Untitled_design-removebg-preview](https://github.com/biswaskdk/biswaskdk/assets/144484530/eb0af925-ff22-4cb7-9fd0-c69870521178)
+
+
+
