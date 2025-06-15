@@ -14,23 +14,25 @@ I'm a recent CS graduate and passionate developer who thrives on **creative prob
 
 - 📍 Based in **Los Angeles, CA** (open to relocation in the US)
 - 🎓 Graduated with B.S. in **Computer Science**, GPA: **3.94**
-- 📈 Currently sharpening skills in **DSA**, **CI/CD**, and **Android Development**
+- 📈 Sharpening skills in **DSA**, **CI/CD**, **Android**, and **AI Application Development**
+- 🤖 Currently building AI apps and launching new projects!
 - 🤝 Actively looking for **new grad SWE roles**
 - 💬 I speak **3 languages** (ask me which!)
-- 📬 [Email](mailto:biswaskhadka10@gmail.com) | [LinkedIn](https://linkedin.com/in/biswaskdk)
+- 📬 [Email](mailto:biswaskhadka10@gmail.com) | [LinkedIn](https://linkedin.com/in/biswaskdk) | [Website](https://bishwashkhadka.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:**  
-Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Prolog · Golang · GDScript  
+Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Prolog · Golang · GDScript
 
 **Frameworks & Tools:**  
-React · Android Studio · Godot · Flask · Firebase · Git/GitHub · Jenkins · WAMP · Figma · Linux  
+React · Android Studio · Godot · Flask · Firebase · Git · GitHub · Jenkins · WAMP Server · Figma · Linux · VS Studio · Canva · OBS Studio · Storybook · Jest
 
 **Certifications:**  
-TestOut Linux Pro · CodePath Android Dev · Project Management · Gaming Analytics
+TestOut Linux Pro · CodePath Android Development · Project Management Foundations · Crash Course on Python · Gaming Analytics · Advanced Technical Interview Prep
+
 
 ---
 
@@ -38,9 +40,10 @@ TestOut Linux Pro · CodePath Android Dev · Project Management · Gaming Analyt
 
 - 🥇 **McHACKS 2.0 Winner** – *PokesTrail* (community mentorship app)
 - 🥉 **ICPC (LSU)** – 3rd Place (2023 & 2024)
-- 🥉 **TruHacks 2024** – *NoHungerZone* (food insecurity solution)
+- 🥉 **TruHacks 2024** – 3rd Place *NoHungerZone* (food insecurity solution)
 - 👑 **Outstanding Junior in CS**, NSBE Member of the Year
 - 💰 Co-authored **$12K+ in SGA grants** as student senator
+- 🤝 Active member and leader in organizations like ACM, NSBE, SGA, and more.
 - 📲 Reached **2,000+ DAUs** leading Fizz Social launch at McNeese
 
 ---
@@ -64,6 +67,11 @@ UI in Figma · Responsive frontend with HTML/CSS/JS · Flask + Firebase backend 
 ### 📸 Gallery
 
 ![Untitled_design-removebg-preview](https://github.com/biswaskdk/biswaskdk/assets/144484530/eb0af925-ff22-4cb7-9fd0-c69870521178)
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+...
+
 
 ---
 
