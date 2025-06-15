@@ -22,7 +22,7 @@ I'm a recent CS graduate and passionate developer who thrives on **creative prob
 
 - 📍 Based in **Los Angeles, CA** (open to relocation in the US)
 - 🎓 Graduated with B.S. in **Computer Science**, GPA: **3.94**
-- - 🤖 Currently building AI apps and launching new projects!
+- 🤖 Currently building AI apps and launching new projects!
 - 🤝 Actively looking for **new grad SWE roles**
 - 📈 Sharpening skills in **DSA**, **CI/CD**, **Android**, and **AI Application Development**
 - 💬 I speak **3 languages** (ask me which!)
