@@ -26,6 +26,18 @@ I'm a recent CS graduate and passionate developer who thrives on **creative prob
 
 **Languages:**  
 Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Prolog · Golang · GDScript
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![Prolog](https://img.shields.io/badge/Prolog-3A4E3A?logo=prolog)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine)
+
 
 **Frameworks & Tools:**  
 React · Android Studio · Godot · Flask · Firebase · Git · GitHub · Jenkins · WAMP Server · Figma · Linux · VS Studio · Canva · OBS Studio · Storybook · Jest
@@ -50,6 +62,9 @@ TestOut Linux Pro · CodePath Android Development · Project Management Foundati
 
 ### 🧑‍💻 Projects I Love
 
+**💬 Guff – AI Overlay Chrome Extension** (in development)
+Developed a Chrome extension that overlays an AI assistant onto any website, enabling real-time, context-aware chat and productivity features. Built with React and JavaScript, Guff offers smart content extraction from web pages and messaging platforms, supports customizable chat bubbles, color overlap detection, export-to-PDF, and voice input. Integrated OpenAI GPT-4o for advanced conversational support, and designed an intuitive, resizable UI with persistent settings and accessibility in mind.
+
 **🎮 Way of the Frog** – *2D Metroidvania Game*  
 Scripted enemy AI and boss fights in Godot using GDScript. Conducted iterative playtests to boost engagement by 20%.
 
@@ -61,17 +76,6 @@ Built multi-screen Kotlin apps with API integration and user preferences. Final 
 
 **🌱 ThreadHub** – *Eco-Friendly Freelancer Marketplace*  
 UI in Figma · Responsive frontend with HTML/CSS/JS · Flask + Firebase backend with user auth.
-
----
-
-### 📸 Gallery
-
-![Untitled_design-removebg-preview](https://github.com/biswaskdk/biswaskdk/assets/144484530/eb0af925-ff22-4cb7-9fd0-c69870521178)
-
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-...
-
 
 ---
 
