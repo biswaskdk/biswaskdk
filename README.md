@@ -114,4 +114,4 @@ UI in Figma · Responsive frontend with HTML/CSS/JS · Flask + Firebase backend 
 _“Code. Create. Connect.”_  
 ✨ Explore my repos, star your favorites, or reach out for collaboration!
 
-🔗 [bishwashkhadka.com](https://bishwashkhadka.com) | [LinkedIn](https://linkedin.com/in/biswaskdk) | [GitHub](https://github.com/biswaskdk)
+🔗 [bishwashkhadka.com](https://bishwashkhadka.com) | [LinkedIn](https://linkedin.com/in/biswaskdk) | [Email](mailto:biswaskhadka10@gmail.com)
