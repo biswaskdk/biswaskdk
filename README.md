@@ -94,7 +94,7 @@ React · Android Studio · Godot · Flask · Firebase · Git · GitHub · Jenkin
 
 ### 🧑‍💻 Projects I Love
 
-**💬 Guff AI** – *AI Overlay Chrome Extension* (in development)
+**💬 Guff AI** – *AI Overlay Chrome Extension* (in development) 
 Developed a Chrome extension that overlays an AI assistant onto any website, enabling real-time, context-aware chat and productivity features. Built with React and JavaScript, Guff offers smart content extraction from web pages and messaging platforms, supports customizable chat bubbles, color overlap detection, export-to-PDF, and voice input. Integrated OpenAI GPT-4o for advanced conversational support, and designed an intuitive, resizable UI with persistent settings and accessibility in mind.
 
 **🎮 Way of the Frog** – *2D Metroidvania Game*  
