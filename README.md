@@ -26,6 +26,7 @@ I'm a recent CS graduate and passionate developer who thrives on **creative prob
 
 **Languages:**  
 Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Prolog · Golang · GDScript
+
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b)
@@ -42,9 +43,32 @@ Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Prolog · Go
 **Frameworks & Tools:**  
 React · Android Studio · Godot · Flask · Firebase · Git · GitHub · Jenkins · WAMP Server · Figma · Linux · VS Studio · Canva · OBS Studio · Storybook · Jest
 
-**Certifications:**  
-TestOut Linux Pro · CodePath Android Development · Project Management Foundations · Crash Course on Python · Gaming Analytics · Advanced Technical Interview Prep
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?logo=googlechrome)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
 
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics)
+![Agile](https://img.shields.io/badge/Agile-0052CC?logo=jira)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
+
+---
+
+### 🎓 Certifications
+
+- 🧑‍💻 [Android Development – CodePath](https://www.linkedin.com/in/biswaskdk/details/certifications/1747198025485/single-media-viewer/?type=DOCUMENT&profileId=ACoAAD_u1AkBYb2cN9UrkmIPcN79W6PIKUUFFac)
+- 🐧 [TestOut Linux Pro Certification](https://certification.testout.com/verifycert/6-2C6-VJRU7T)
+- 🎮 [Gaming Market Analytics – Credly](https://www.credential.net/24319882-c547-4d8c-b6b8-b5dcbd8eabb3#acc.4J6EQxAw)
+- 🧠 [Crash Course on Python – Coursera](https://www.coursera.org/account/accomplishments/verify/AT8K744LFY5R)
+- 📊 [Foundations of Project Management – Coursera](https://www.coursera.org/account/accomplishments/verify/FVUKE9U3E2FS)
 
 ---
 
