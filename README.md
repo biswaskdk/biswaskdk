@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td>
+
 # 👋 Hi there, I'm Bishwash Khadka!
 
 🎓 CS Graduate @ McNeese State University (Graduated May 2025)  
@@ -6,9 +10,13 @@
 
 I'm a recent CS graduate and passionate developer who thrives on **creative problem-solving**. From building full-stack apps to scripting enemy AIs in games, I combine technical skills with curiosity and teamwork to turn ideas into impactful solutions. I'm currently **seeking new grad software engineering opportunities**, and open to relocate!
 
-![code(1)](https://github.com/biswaskdk/biswaskdk/assets/144484530/1c6232fa-6b6c-4d41-ad7f-f52fdd56c064)
+</td>
+<td>
+<img src="https://github.com/biswaskdk/biswaskdk/assets/144484530/1c6232fa-6b6c-4d41-ad7f-f52fdd56c064" width="300"/>
+</td>
+</tr>
+</table>
 
----
 
 ### 🌍 About Me
 
