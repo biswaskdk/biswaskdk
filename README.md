@@ -6,7 +6,7 @@
 
 🎓 CS Graduate @ McNeese State University (Graduated May 2025)  
 💡 Developer · Mentor · Gamer · Explorer  
-🚀 Building real-world solutions with code, coffee, and  curiosity
+🚀 Building real-world solutions with code, coffee, and curiosity
 
 I'm a recent CS graduate and passionate developer who thrives on **creative problem-solving**. From building full-stack apps to scripting enemy AIs in games, I combine technical skills with curiosity and teamwork to turn ideas into impactful solutions. I'm currently **seeking new grad software engineering opportunities**, and open to relocate!
 
