@@ -4,7 +4,7 @@
 
 # 👋 Hi there, I'm Bishwash Khadka!
 
-🎓 CS Graduate @ McNeese State University (Graduated May 2025)  
+🎓 CS Graduate @ McNeese State University    (Graduated May 2025)  
 💡 Developer · Mentor · Gamer · Explorer  
 🚀 Building real-world solutions with code, coffee, and curiosity
 
