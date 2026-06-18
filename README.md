@@ -4,11 +4,13 @@
 
 # 👋 Hi there, I'm Bishwash Khadka!
 
-🎓 CS Graduate @ McNeese State University  
-💡 Developer · Mentor · Gamer · Explorer  
-🚀 Building real-world solutions with code, coffee, and curiosity
+🎓 Computer Science Graduate
+🤖 AI Engineer · 💻 Software Developer · 🎮 Indie Game Developer
+🚀 Building intelligent systems, useful software, and immersive gameplay experiences
 
-I'm a CS graduate and passionate developer who thrives on **creative problem-solving**. From building full-stack apps to scripting enemy AIs in games, I combine technical skills with curiosity and teamwork to turn ideas into impactful solutions. I'm currently **seeking new grad software engineering opportunities**, and open to relocate!
+I'm a Computer Science graduate passionate about solving real-world problems through software, artificial intelligence, and game development. My work spans AI agents, retrieval-augmented generation (RAG) systems, workflow automation, full-stack applications, and gameplay systems. Whether I'm building an AI-powered product or designing game mechanics, I enjoy turning ideas into practical experiences that people love to use.
+
+Currently seeking **Software Engineering**, **AI Engineering**, and related opportunities.
 
 </td>
 <td>
@@ -17,23 +19,46 @@ I'm a CS graduate and passionate developer who thrives on **creative problem-sol
 </tr>
 </table>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=biswaskdk&label=Profile%20Views" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biswaskdk&show_icons=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=biswaskdk" />
+</p>
+
+---
 
 ### 🌍 About Me
 
-- 📍 Based in **Los Angeles, CA** (open to relocation in the US)
-- 🎓 Graduated with B.S. in **Computer Science**, GPA: **3.94**
-- 🤖 Currently building AI apps and launching new projects!
-- 🤝 Actively looking for **new grad SWE roles**
-- 📈 Sharpening skills in **DSA**, **CI/CD**, **Android**, and **AI Application Development**
-- 💬 I speak **3 languages** (ask me which!)
-- 📬 [Email](mailto:biswaskhadka10@gmail.com) | [LinkedIn](https://linkedin.com/in/biswaskdk)
+* 📍 Based in **Los Angeles, CA** (Open to Relocation)
+* 🎓 B.S. in **Computer Science**, GPA **3.94**
+* 🤖 Building AI agents, RAG systems, and workflow automations
+* 🎮 Exploring gameplay systems, AI, and physics-driven mechanics with **Unreal Engine** and **Godot**
+* 🧠 Currently completing **CodePath AI 201: Applications of AI Engineering**
+* 🏆 Hackathon Winner, ICPC Competitor, and Outstanding Junior in Computer Science
+* 💬 I speak **3 languages**
+* 📬 [Email](mailto:biswaskhadka10@gmail.com) | [LinkedIn](https://linkedin.com/in/biswaskdk)
+
+---
+
+### 🔭 Currently Building
+
+* 🤖 **NARAD AI** — Human-in-the-loop AI content agent
+* 💬 **Guff AI** — Context-aware AI Chrome extension
+* 🎮 **Falnu** — Physics-based survival game in Unreal Engine 5
+* 🧠 Advanced AI Engineering projects through CodePath AI 201
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Prolog · Golang · GDScript
+#### Languages
+
+Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Golang · Prolog · GDScript
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
@@ -43,75 +68,127 @@ Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Prolog · Go
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![Prolog](https://img.shields.io/badge/Prolog-3A4E3A?logo=prolog)
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine)
 
+#### AI & Automation
 
-**Frameworks & Tools:**  
-React · Android Studio · Godot · Flask · Firebase · Git · GitHub · Jenkins · WAMP Server · Figma · Linux · VS Studio · Canva · OBS Studio · Storybook · Jest
+OpenAI · Claude · Groq · RAG · AI Agents · Prompt Engineering · ChromaDB · Vector Databases · Workflow Automation
+
+#### Frameworks & Tools
+
+React · Flask · Firebase · Git · GitHub · Linux · Jenkins · Android Studio · Unreal Engine · Godot · Figma · Jest · Storybook
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?logo=googlechrome)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
-
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics)
-![Agile](https://img.shields.io/badge/Agile-0052CC?logo=jira)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
 
 ---
 
 ### 🎓 Certifications
 
-- 🧑‍💻 [Android Development – CodePath](https://www.linkedin.com/in/biswaskdk/details/certifications/1747198025485/single-media-viewer/?type=DOCUMENT&profileId=ACoAAD_u1AkBYb2cN9UrkmIPcN79W6PIKUUFFac)
-- 🐧 [TestOut Linux Pro Certification](https://certification.testout.com/verifycert/6-2C6-VJRU7T)
-- 🎮 [Gaming Market Analytics – Credly](https://www.credential.net/24319882-c547-4d8c-b6b8-b5dcbd8eabb3#acc.4J6EQxAw)
-- 🧠 [Crash Course on Python – Coursera](https://www.coursera.org/account/accomplishments/verify/AT8K744LFY5R)
-- 📊 [Foundations of Project Management – Coursera](https://www.coursera.org/account/accomplishments/verify/FVUKE9U3E2FS)
+* 🧠 CodePath AI 201 – Applications of AI Engineering *(In Progress)*
+* 🎮 Epic Games Game Design Professional Certificate *(In Progress)*
+* 🧑‍💻 Android Development – CodePath
+* 👨‍🏫 CodePath Peer Mentor
+* 🧩 Claude 101
+* 🤖 AI Fluency
+* 🏅 Certified Student Programmer
+* 📊 Foundations of Project Management – Google
+* 🐧 TestOut Linux Pro Certification
+* 🐍 Crash Course on Python – Google/Coursera
+* 🎮 Gaming Market Analytics – Credly
 
 ---
 
 ### 🏆 Highlights
 
-- 🥇 **McHACKS 2.0 Winner** – *PokesTrail* (community mentorship app)
-- 🥉 **ICPC (LSU)** – 3rd Place (2023 & 2024)
-- 🥉 **TruHacks 2024** – 3rd Place *NoHungerZone* (food insecurity solution)
-- 👑 **Outstanding Junior in CS**, NSBE Member of the Year
-- 💰 Co-authored **$12K+ in SGA grants** as student senator
-- 🤝 Active member and leader in organizations like ACM, NSBE, SGA, and more.
-- 📲 Reached **2,000+ DAUs** leading Fizz Social launch at McNeese
+* 🥇 **McHACKS 2.0 Winner** — *PokesTrail*
+* 📲 Led **Fizz Social** launch at McNeese, contributing to **2,000+ DAUs**
+* 💰 Co-authored and secured **$12K+ in SGA funding initiatives**
+* 👑 **Outstanding Junior in Computer Science**
+* 🥉 **ICPC Regional Programming Competition** — 3rd Place (2023 & 2024)
+* 🥉 **TruHacks 2024** — 3rd Place (*NoHungerZone*)
+* 🌟 **NSBE Outstanding Member of the Year**
+* 🤝 Leadership experience across ACM, NSBE, SGA, and campus organizations
 
 ---
 
-### 🧑‍💻 Projects I Love
+### 🧑‍💻 Featured Projects
 
-**💬 Guff AI** – *AI Overlay Chrome Extension* (in development)  
-Developed a Chrome extension that overlays an AI assistant onto any website, enabling real-time, context-aware chat and productivity features. Built with React and JavaScript, Guff offers smart content extraction from web pages and messaging platforms, supports customizable chat bubbles, color overlap detection, export-to-PDF, and voice input. Integrated OpenAI GPT-4o for advanced conversational support, and designed an intuitive, resizable UI with persistent settings and accessibility in mind.
+## 🤖 NARAD AI
 
-**🎮 Way of the Frog** – *2D Metroidvania Game*  
-Scripted enemy AI and boss fights in Godot using GDScript. Conducted iterative playtests to boost engagement by 20%.
+**News Analysis, Retrieval, Approval, and Distribution AI**
 
-**📚 McNeese BookHub** – *Fullstack Book Exchange Platform*  
-Led frontend (React) + backend (PHP, SQL) development. Optimized query performance by 30%.
+A Human-in-the-Loop AI content agent that researches technology news, ranks stories, retrieves contextual knowledge through RAG, generates personalized commentary, routes content through approval workflows, and publishes approved content to LinkedIn.
 
-**📱 Android Apps – CodePath**  
-Built multi-screen Kotlin apps with API integration and user preferences. Final capstone featured real-time data sync.
-
-**🌱 ThreadHub** – *Eco-Friendly Freelancer Marketplace*  
-UI in Figma · Responsive frontend with HTML/CSS/JS · Flask + Firebase backend with user auth.
+**Tech:** OpenAI, Qdrant, n8n, Gmail API, LinkedIn API, RAG, Embeddings
 
 ---
 
-_“Code. Create. Connect.”_  
-✨ Explore my repos, star your favorites, or reach out for collaboration!
+## 💬 Guff AI
 
-🔗 [LinkedIn](https://linkedin.com/in/biswaskdk) | [Email](mailto:biswaskhadka10@gmail.com)
+AI-powered Chrome extension that overlays contextual assistance on any website. Features intelligent content extraction, real-time chat, voice input, export-to-PDF functionality, and GPT-powered productivity workflows.
+
+**Tech:** React, JavaScript, OpenAI GPT-4o, Chrome Extension APIs, Node.js
+
+---
+
+## 🎮 Falnu
+
+Physics-based survival prototype built in Unreal Engine 5. Players use environmental objects as weapons through a physics-driven throwing system where impact speed, mass, material type, and durability affect gameplay outcomes.
+
+**Tech:** Unreal Engine 5, C++, Blueprints, Physics Simulation
+
+---
+
+## 🥇 PokesTrail
+
+Hackathon-winning platform that connects students with mentors, campus resources, and community support systems.
+
+**Achievement:** 1st Place — McHACKS 2.0
+
+---
+
+## 📚 McNeese BookHub
+
+Full-stack textbook exchange platform built for university students. Led frontend and backend development while improving query performance and user experience.
+
+**Tech:** React, PHP, SQL
+
+---
+
+### 🎯 Beyond Code
+
+* 🎮 Indie Game Development
+* 🏆 Hackathons & Competitive Programming
+* 🎤 Mentoring Students
+* 🤖 AI Engineering
+* ☕ Coffee Enthusiast
+* 🌎 Learning Through Exploration
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswaskdk" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+📧 **Email:** [biswaskhadka10@gmail.com](mailto:biswaskhadka10@gmail.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/biswaskdk
+
+⭐ Feel free to explore my repositories, connect with me, or reach out about opportunities and collaborations.
+
+---
+
+> *"Code. Create. Connect."*
