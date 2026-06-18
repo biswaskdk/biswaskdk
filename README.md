@@ -156,7 +156,7 @@ Game Design • Unreal Engine Fundamentals • Level Design • Blueprint Script
 🎮 Indie Game Development • 🏆 Hackathons • 🤖 AI Engineering • 🎤 Mentorship • ☕ Coffee • 🌎 Learning & Exploration
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswaskdk" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswaskdk&theme=github-dark" />
 </p>
 
 ---
