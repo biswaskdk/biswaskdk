@@ -48,7 +48,6 @@ Currently seeking **Software Engineering**, **AI Engineering**, and related oppo
 ### 🔭 Currently Building
 
 * 🤖 **NARAD AI** — Human-in-the-loop AI content agent
-* 💬 **Guff AI** — Context-aware AI Chrome extension
 * 🎮 **Falnu** — Physics-based survival game in Unreal Engine 5
 * 🧠 Advanced AI Engineering projects through CodePath AI 201
 
@@ -56,9 +55,9 @@ Currently seeking **Software Engineering**, **AI Engineering**, and related oppo
 
 ### 🛠️ Tech Stack
 
-#### Languages
+#### 💻 Languages
 
-Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Golang · Prolog · GDScript
+Python · Java · C++ · JavaScript · Kotlin · SQL · Golang · Prolog · HTML/CSS · GDScript
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
@@ -66,28 +65,66 @@ Python · Java · C++ · JavaScript · Kotlin · SQL · HTML/CSS · Golang · Pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine)
 
-#### AI & Automation
+---
 
-OpenAI · Claude · Groq · RAG · AI Agents · Prompt Engineering · ChromaDB · Vector Databases · Workflow Automation
+#### 🤖 AI & Automation
 
-#### Frameworks & Tools
+OpenAI APIs · Claude · Groq · RAG · AI Agents · Prompt Engineering · ChromaDB · Vector Databases · Workflow Automation · n8n
 
-React · Flask · Firebase · Git · GitHub · Linux · Jenkins · Android Studio · Unreal Engine · Godot · Figma · Jest · Storybook
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
+![Claude](https://img.shields.io/badge/Claude-D97757)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n)
+
+---
+
+#### 🌐 Web Development
+
+React · Node.js · Express · Flask · Firebase · Chrome Extensions
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?logo=googlechrome)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+![Chrome\_Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?logo=googlechrome)
+
+---
+
+#### 🎮 Game Development
+
+Unreal Engine 5 · Godot · Blueprint Visual Scripting · Gameplay Systems · Physics Simulation
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine)
+
+---
+
+#### ⚙️ Software Engineering & DevOps
+
+Git · GitHub · GitHub Actions · Jenkins · Linux
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+
+---
+
+#### 🎨 Design & Productivity
+
+Figma · Canva · Storybook · Android Studio
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio)
+
 
 ---
 
