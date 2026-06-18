@@ -24,7 +24,7 @@ I'm passionate about AI engineering, software development, and game creation. My
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biswaskdk&label=Profile%20Views&base=8" />
+  <img src="https://komarev.com/ghpvc/?username=biswaskdk&label=Profile%20Views&base=35" />
 </p>
 
 <p align="center">
