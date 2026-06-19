@@ -25,7 +25,6 @@ I'm passionate about AI engineering, software development, and game creation. My
 
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=biswaskdk&show_icons=true&rank_icon=github" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=biswaskdk" />
 </p>
 
