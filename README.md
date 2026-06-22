@@ -99,7 +99,6 @@ Python • Java • C++ • JavaScript • Kotlin • SQL • Golang • HTML/CS
 | --------------------------------------------------- | ----------- |
 | 🧠 CodePath AI 201 – Applications of AI Engineering | In Progress |
 | 🎮 Epic Games Game Design Professional Certificate  | Completed |
-| 🧑‍💻 Android Development – CodePath                | Completed   |
 | 👨‍🏫 CodePath Peer Mentor                          | Completed   |
 | 🤖 AI Fluency                                       | Completed   |
 | 🧩 Claude 101                                       | Completed   |
